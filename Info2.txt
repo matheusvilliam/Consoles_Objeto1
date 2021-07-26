@@ -1,3 +1,4 @@
 Nome: João
 Idade: 20 anos
 Peso: 85kg
+Altura: 1,75
