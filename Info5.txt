@@ -1,0 +1,4 @@
+Nome: Ana
+Idade: 18 anos
+Peso: 49kg
+Altura: 1,50
