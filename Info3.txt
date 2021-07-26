@@ -1,3 +1,4 @@
 Nome: Maria
 Idade: 22 anos
+Peso: 52kg
 Altura: 1,70

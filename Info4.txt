@@ -1,3 +1,4 @@
 Nome: José
 Idade: 30 anos
 Peso: 65kg
+Altura: 1,76
